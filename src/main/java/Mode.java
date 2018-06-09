@@ -1,0 +1,3 @@
+public enum Mode {
+    VOCABULARY, LISTENING, WRITING, SPEAKING;
+}
